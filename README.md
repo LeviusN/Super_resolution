@@ -16,7 +16,7 @@ priklad:
 ## A toto som dostal ked som pouzil to co je v OpenCV:
 
 <p align="center">
-    <img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/6378.figure_5F00_3_5F00_nvic.jpg" width="400">
+    <img src="https://github.com/LeviusN/Super_resolution/assets/91337423/00a2054d-7a9f-4678-a98c-3317cd78af3d.jpg" width="400">
 </p>
 
 <p align="center">
