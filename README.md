@@ -20,5 +20,5 @@ priklad:
 </p>
 
 <p align="center">
-    <img src="https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-21-42/6378.figure_5F00_3_5F00_nvic.jpg" width="400">
+    <img src="https://github.com/LeviusN/Super_resolution/assets/91337423/d0b354bc-253d-4a6c-a673-36f78f935e5d.jpg" width="400">
 </p>
