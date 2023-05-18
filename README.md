@@ -22,3 +22,8 @@ priklad:
 <p align="center">
     <img src="https://github.com/LeviusN/Super_resolution/assets/91337423/d0b354bc-253d-4a6c-a673-36f78f935e5d.jpg" width="400">
 </p>
+
+## Online
+https://replicate.com/nightmareai/real-esrgan
+
+https://replicate.com/sczhou/codeformer
